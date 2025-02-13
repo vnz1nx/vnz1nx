@@ -13,6 +13,7 @@
     <img src="https://logospng.org/download/react/logo-react-256.png" width="50px" height="50px">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50px" height="50px">
     <img src="https://logospng.org/download/postgresql/postgresql-512.png" width="50px" height="50px">
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50px" height="50px">
   </div>
 
 [![Estatísticas](https://github-readme-stats.vercel.app/api?username=vnz1nx&rank_icon=github&show_icons=true&theme=nightowl)](https://github.com/vnz1nx)
