@@ -1,4 +1,4 @@
-## Seja bem vindo(a) ao meu perfil! Me chamo Marcos 🕷🕸
+##Me chamo Marcos 🕷🕸
 <html>    
 <body>
   <Strong>Desenvolvedor Full Stack | Tecnico em Informática para Internet</Strong><br/>
